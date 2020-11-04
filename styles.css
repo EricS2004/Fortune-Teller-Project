@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: yellow;
+
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: yellow;
+}
+
+.bdiv {
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+    display: none;
+}
+
+body {
+    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+}
+
+p {
+    color: yellow;
+    font-family: 'Anton', sans-serif;
+}
